@@ -1,8 +1,5 @@
 # Software implementation for Tracker condition estimation
 
-[![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
-
-
 ## Overview 
 
 This is a set of MATLAB scripts  for estimating the performance of single-object particle filter tracker without using ground-truth data. 
@@ -14,7 +11,7 @@ by analyzing the uncertainty of the filter and the time-reversibility property.
 
 ## License and Citation
 
- is released under the [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE).
+ This software is released under the [Academic Public License](https://github.com/vpulab/trackquality-arte/blob/master/TrackerCondition/LICENSE).).
 
 Please cite the following publication if this software helps your research:
 
