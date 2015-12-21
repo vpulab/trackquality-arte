@@ -1,15 +1,12 @@
 # Software implementation for Track quality estimation
 
-[![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
-
-
 ## Overview 
 
 GUI for estimating the track quality of single-object particle filter tracker without using ground-truth data. Specifically, the performance  is estimated by using a time-reversed tracker (the time-reversibility property) and comparing the tracking data between the forward and reverse trackers in terms of spatial and feature distances
 
 ## License and Citation
 
- is released under the [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE).
+This software is released under the [Academic Public License](https://github.com/vpulab/trackquality-arte/master/TrackQuality/LICENSE).
 
 Please cite the following publication if this software helps your research:
 
