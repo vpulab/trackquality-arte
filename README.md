@@ -41,7 +41,7 @@ or including it in the MATLAB path.
 
 Run the GUI by executing the following command in MATLAB:
 
- track_quality_gui();
+	track_quality_gui();
 
 See 'help track_quality_gui' for explanation of the usage of the interface.
 Additionally, a 'help' button is included in the interface.
