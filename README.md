@@ -87,7 +87,7 @@ The data used by the application is the following:
            +'RefP_upd':ignal that indicates the attemps to detect tracker
             recovery after error {successful recovery (=1), wrong recovery (=0.5)}.
 
-== OUTPUT SPECIFICATIONS ==
+## Output specifications
 
  The GUI doesn't have a return values. Track quality analysis are
  stored as a mat file using the 'Output File' textbox. This mat file has a
