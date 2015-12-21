@@ -22,7 +22,6 @@ Please cite the following publication if this software helps your research:
 Please check the directory [TrackerCondition] ( https://github.com/vpulab/trackquality-arte/blob/master/TrackerCondition) for tracker condition estimation and the directory [TrackQuality] (https://github.com/vpulab/trackquality-arte/blob/master/TrackQuality) for track quality estimation 
 
 Check out the [project site](http://www-vpu.ii.uam.es/publications/TrackQuality/) for all the details like:
-- [Tutorial Documentation](http://caffe.berkeleyvision.org/tutorial/)
 - [Sample results](http://www-vpu.ii.uam.es/publications/TrackQuality/#results)
 - [Datasets](http://www-vpu.ii.uam.es/publications/TrackQuality/#dataset)
 - [Ground-truth](http://www-vpu.ii.uam.es/publications/TrackQuality/Ground_truth.zip)
