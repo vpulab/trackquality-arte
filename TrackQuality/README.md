@@ -6,7 +6,7 @@ GUI for estimating the track quality of single-object particle filter tracker wi
 
 ## License and Citation
 
-This software is released under the [Academic Public License](https://github.com/vpulab/trackquality-arte/master/TrackQuality/LICENSE).
+This software is released under the [Academic Public License](https://github.com/vpulab/trackquality-arte/blob/master/TrackQuality/LICENSE).
 
 Please cite the following publication if this software helps your research:
 
